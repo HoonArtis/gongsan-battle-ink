@@ -1,0 +1,6 @@
+*.mp4
+*.wav
+*_frames/
+chrome_*profile/
+probe_profile/
+__pycache__/
